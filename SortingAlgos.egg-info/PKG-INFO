@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SortingAlgos
+Version: 0.0.1
+Summary: Sorting algorithms for sorting
+Home-page: https://github.com/Geeky-star/SortingAlgorithms
+Author: Nimrat Kaur
+Author-email: nimratkaur540@gmail.com
+License: MIT
+Description: Sorting techniques for optimizing the sorting and making the use of sorting algorithms easier.
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
